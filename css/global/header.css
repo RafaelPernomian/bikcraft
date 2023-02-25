@@ -40,6 +40,9 @@
 }
 
 @media (max-width: 800px) {
+  .header {
+    justify-content: space-evenly;
+  }
   .header-menu {
     gap: 20px;
   }
